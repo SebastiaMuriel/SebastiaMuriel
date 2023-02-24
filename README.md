@@ -1,8 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-  <h1></h1/
+  <h1>Hi i'm Sebastian</h1>
+  <h3></h3>
 </div>
 
 <!--

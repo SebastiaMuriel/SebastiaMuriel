@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-gif-expand-exponentially-ftAyb0CG1FNAIZt4SO" width="200">
+  <iframe src="https://giphy.com/embed/ftAyb0CG1FNAIZt4SO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
   <h1></h1/
 </div>
 
